@@ -1,6 +1,6 @@
 import java.util.Random;
 
-// Creation de la classe battler avec parametre  
+// Creation de la classe battler avec 4 parametre
 public class Battler {
     public String name;
     public int hp;
